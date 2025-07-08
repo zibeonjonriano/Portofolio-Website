@@ -32,8 +32,11 @@ function ProyekBox({ proyek }) {
         </div>
 
         <div className="mt-8 text-center">
-          <a className="bg-violet-700 p-3 rounded-lg block border border-zinc-600 hover:bg-violet-600"
-            href="#">
+          <a className={`bg-violet-700 p-3 rounded-lg block border border-zinc-600 hover:bg-violet-600 ${!proyek.link ? 'pointer-events-none opacity-50' : ''}`}
+
+            href={proyek.link || "#"}
+            target="_blank"
+            rel="noopener noreferrer">
             View More
           </a>
         </div>

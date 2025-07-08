@@ -118,6 +118,7 @@ export const listProyek = [
     desk: "UrbanHome Website is an e-commerce platform dedicated to offering a wide range of home decor products. It enables customers to easily browse various items, add them to their shopping cart, and complete secure purchases online. The website features well-organized product categories to help users find exactly what they need, along with a simple blog section that provides inspiration, tips, and ideas for decorating their homes. Designed with a clean and user-friendly interface, UrbanHome aims to deliver a seamless shopping experience that makes furnishing and beautifying any living space both convenient and enjoyable.",
     tools: ["Figma","Canva"],
     dad: "200",
+    link: "https://ristek.link/UrbanHome_HiFi_Zibeon",
   },
   {
     id: 2,
@@ -126,6 +127,7 @@ export const listProyek = [
     desk: "SoyLearn is a Learning Management System (LMS) designed to enhance the efficiency of digital learning. This application offers features such as an interactive dashboard, a task management system with automatic notifications, access to learning materials in various formats, real-time discussion forums, and multi-device support. With a student-centered learning approach, SoyLearn aims to provide a more flexible, structured, and interactive learning experience for both students and lecturers.",
     tools: ["Figma","Canva"],
     dad: "300",
+    link: "https://ristek.link/SoyLearn_HiFi_Zibeon",
   },
   {
     id: 3,
@@ -134,6 +136,7 @@ export const listProyek = [
     desk: "PitPet is a marketing website for an IoT wearable product designed specifically for pets. This platform provides comprehensive information for pet owners about PitPet’s features and benefits, including real-time health, activity, and location monitoring through a companion app. With its intuitive and user-friendly design, PitPet makes it easy for users to explore the product, understand the technology behind it, and complete purchases through a seamless and interactive experience. This prototype was developed as part of a university course project.",
     tools: ["Figma","Canva"],
     dad: "400",
+    link: "https://ristek.link/PitPetWeb_HiFi_Zibeon",
   },
   {
     id: 4,
@@ -142,6 +145,7 @@ export const listProyek = [
     desk: "Integrated Anti-Corruption Platform (IACP) is a web platform designed to enhance transparency and accountability in the education sector through an integrated system for corruption reporting and audit management. Developed using a Design Thinking approach, its design prioritizes security, intuitive navigation, and informative data visualizations to support efficient reporting and investigation processes.",
     tools: ["Figma","Canva"],
     dad: "500",
+    link: "https://ristek.link/IACP_HiFi_Zibeon"
   },
   {
     id: 5,
@@ -150,6 +154,7 @@ export const listProyek = [
     desk: "I designed a prototype landing page for the Compfest 17 competition website. This project focuses on delivering a modern, informative, and easy-to-navigate interface to help prospective participants quickly grasp competition details, registration requirements, and event schedules. With a clean and user-friendly design approach, each element was crafted to enhance user experience — from the hero section and competition highlights to clear call-to-action buttons for registration.",
     tools: ["Figma","Canva"],
     dad: "600",
+    link: "https://ristek.link/IACP_HiFi_Zibeon",
   },
   {
     id: 6,
@@ -158,5 +163,6 @@ export const listProyek = [
     desk: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis, laborum!",
     tools: ["Figma","Canva"],
     dad: "700",
+    link: "",
   },
 ];
