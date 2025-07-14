@@ -150,11 +150,11 @@ export const listProyek = [
   {
     id: 5,
     gambar: Proyek5,
-    nama: "Compfest Prototype Website Design",
-    desk: "fest 17 Competition Landing Page is a prototype design for the main page of Indonesia’s largest annual technology competition website. Using a Design Thinking approach, this design focuses on delivering clear information, an intuitive user experience, and visually engaging elements to attract participants from diverse backgrounds. The landing page highlights key event features, competition categories, and prominent registration call-to-actions with a modern, responsive layout to maximize engagement and boost competition sign-ups.",
+    nama: "Compfest 17 Prototype Website Design",
+    desk: "Comfest 17 Competition Landing Page is a prototype design for the main page of Indonesia’s largest annual technology competition website. Using a Design Thinking approach, this design focuses on delivering clear information, an intuitive user experience, and visually engaging elements to attract participants from diverse backgrounds. The landing page highlights key event features, competition categories, and prominent registration call-to-actions with a modern, responsive layout to maximize engagement and boost competition sign-ups.",
     tools: ["Figma","Canva"],
     dad: "600",
-    link: "https://www.figma.com/proto/2rBUZCnwc5U8GhUD6ZOhLa/TugasCompfest_LandingPageCompetitionCompfest_Zibeon?node-id=0-1&t=Boex1brQApZgOoag-1",
+    link: "https://ristek.link/Compfest17_HiFi_Zibeon",
   },
   {
     id: 6,
