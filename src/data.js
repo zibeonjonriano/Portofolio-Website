@@ -163,6 +163,6 @@ export const listProyek = [
     desk: "Terrastock is a B2B e-commerce web platform that streamlines the distribution of aquaculture and livestock products directly to businesses, reducing dependency on middlemen. It enables suppliers, fish farmers, and livestock breeders to efficiently market their products while receiving support in animal health management through the TerraStock AI consultation feature. Additionally, an AI-powered chatbot assists both suppliers and buyers throughout transactions and overall platform usage, ensuring a seamless and transparent experience.",
     tools: ["Figma","Canva"],
     dad: "700",
-    link: "https:ristek.link/TerraStock-Prototype-StecuStecu",
+    link: "https://ristek.link/TerraStock-Prototype-StecuStecu",
   },
 ];
