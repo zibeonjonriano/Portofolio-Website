@@ -109,6 +109,7 @@ import Proyek3 from "/assets/proyek/proyek3.webp";
 import Proyek4 from "/assets/proyek/proyek4.webp";
 import Proyek5 from "/assets/proyek/proyek5.webp";
 import Proyek6 from "/assets/proyek/proyek6.webp";
+import Proyek7 from "/assets/proyek/proyek7.webp";
 
 export const listProyek = [
   {
@@ -165,4 +166,13 @@ export const listProyek = [
     dad: "700",
     link: "https://ristek.link/TerraStock_HiFi_Zibeon",
   },
+  {
+    id: 7,
+    gambar: Proyek7,
+    nama: "TuneBox Prototype Website Design",
+    desk: "TuneBox is a concept-based music streaming platform designed to deliver a personalized and seamless listening experience. It allows users to explore, organize, and enjoy music effortlessly through intuitive navigation and curated content. Key features include collaborative playlists, real-time lyrics, customizable equalizer settings, and social integrations that showcase friends’ listening activities. TuneBox emphasizes both aesthetics and usability, with user-centered design decisions backed by UX principles. The platform is supported by a clean, responsive UI and a layout optimized for multitasking, ensuring users stay engaged while enjoying their favorite tracks.",
+    tools: ["Figma","Canva"],
+    dad: "800",
+    link: "https://ristek.link/TuneBox_HiFi_Zibeon",
+  }
 ];
