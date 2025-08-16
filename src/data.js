@@ -174,5 +174,14 @@ export const listProyek = [
     tools: ["Figma","Canva"],
     dad: "800",
     link: "https://ristek.link/TuneBox_HiFi_Zibeon",
+  },
+  {
+    id: 8,
+    gambar: Proyek8,
+    nama: "Open House Fasilkom UI 2025 Website Design",
+    desk: "OpenHouse UI 2025 is a concept-driven landing page and registration platform designed to provide prospective students with a seamless and engaging introduction to the Open House event. The website allows visitors to explore the event effortlessly through intuitive navigation and visually appealing design. Key sections include an About section explaining the Open House purpose and schedule, a Timeline outlining the sequence of activities, a Gallery showcasing highlights from past events, Testimonials from previous participants, and a Registration page for signing up. The platform emphasizes user-centered design principles, clarity, and accessibility, ensuring attendees can easily browse, stay informed, and register for the event. Its responsive layout and interactive features make the Open House experience engaging and memorable.",
+    tools: ["Figma","Canva"],
+    dad: "900",
+    link: "https://ristek.link/OHCSUI2025_HiFi_Zibeon",
   }
 ];
