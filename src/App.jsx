@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import DataImage, { listTools, listProyek } from "./data";
+import TrueFocus from "./components/TrueFocus";
 
 
 // KOMONEN PROYEK
@@ -62,7 +63,18 @@ function App() {
                   <img src={DataImage.HeroImage} alt="Hero Image" className="w-4 rounded-2xl" loading="lazy" />
                   <q>Turning ideas into delightful experiences💫</q>
                 </div>
-                <h1 className="text-4xl/tight font-bold mb-6">Hi, I'm Zibeon Jonriano</h1>
+                <h1 className="text-3xl/tight font-bold mb-6 pt-4">
+                  <TrueFocus
+                    sentence="Hi, I'm Zibeon Jonriano👋"
+                    manualMode={false}
+                    blurAmount={1}
+                    borderColor="rgb(139, 92, 246)" // violet-500
+                    glowColor="rgba(139, 92, 246, 0.6)"
+                    animationDuration={1}
+                    pauseBetweenAnimations={1}
+                  />
+                </h1>
+
                 <p className="text-base/loose mb-6 opacity-50">
                   An Information Systems undergraduate passionate about crafting user-centered digital products.
                   This portfolio showcases my work in UI/UX design, web development, and collaborative tech-driven projects.
