@@ -25,8 +25,8 @@ createRoot(document.getElementById('root')).render(
         gap={15}
         baseColor="#18181B"
         activeColor="#5227FF"
-        proximity={200}
-        shockRadius={300}
+        proximity={400}
+        shockRadius={100}
         shockStrength={5}
         resistance={750}
         returnDuration={1.5}
